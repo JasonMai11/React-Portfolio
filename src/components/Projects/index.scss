@@ -1,0 +1,100 @@
+
+  .disappear {
+    opacity: 100;
+    animation: fadeOut 1s ease-in 1s;
+    animation-fill-mode: forwards;
+    
+    .spinner {
+        color: #41403e;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+    }
+    
+    .spinner:after {
+        animation: changeContent .8s linear infinite;
+        display: block;
+        content: "⠋";
+        font-size: 80px;
+    }
+    
+    @keyframes changeContent {
+        10% { content: "⠙"; }
+        20% { content: "⠹"; }
+        30% { content: "⠸"; }
+        40% { content: "⠼"; }
+        50% { content: "⠴"; }
+        60% { content: "⠦"; }
+        70% { content: "⠧"; }
+        80% { content: "⠇"; }
+        90% { content: "⠏"; }
+    }
+  }
+
+
+
+
+
+
+
+
+  .projects-page {
+    left: 7%;
+    top: 50%;
+    transform: translateY(-55%);
+    width: 40%;
+    max-height: 90%;
+    p {
+      color: #857e61d3;;
+      font-size: 30px;
+    }
+    li {
+      color: rgb(223, 88, 88);
+      font-size: 18px;
+    }
+    ul {
+      color: rgb(16, 2, 2);
+      font-size: 15px;
+    }
+    a {
+      color: rgb(11, 240, 206)
+    }
+
+    .ParstagramDescription {
+      width: 500px;
+    }
+    .ParstagramGiff{
+      img {
+        width: 105px;
+        height: auto;
+        margin-left: 115%;
+        margin-top: -23%;
+      }
+    }
+
+    .NoteTakersDescription {
+      margin-top: 10%;
+      margin-left: 110%;
+      width: 500px;
+    }
+
+    .NoteTakersGiff{
+      img {
+        width: 110px;
+        height: auto;
+        margin-left: 45%;
+        margin-top: -30%;
+      }
+    }
+    .Microwave-text {
+      width: 400px;
+      height: auto;
+      margin-left: 115%;
+      margin-top: -23%;
+    }
+
+    .Python-projects {
+      margin-top: 10%
+    }
+  }
