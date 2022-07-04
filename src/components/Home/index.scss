@@ -116,44 +116,51 @@
           margin-left: 0%;
         }
       }
-    .lookDownText {
-      color: rgb(44, 44, 250);
-      margin-left: 45%;
-      font-size: 20px;
-      margin-top: 800px;
     }
-
-    .ValorantGamer {
-      .animeGif{
-        margin-left: 7%;
+    
+    .scroll-effects {
+      z-index: -1;
+      .lookDownText {
+        color: rgb(44, 44, 250);
+        margin-left: 45%;
+        font-size: 20px;
+        margin-top: 800px;
       }
-      margin-top: 5%;
-      .ValDescription {
-        font-size: 40px;
-        padding-left: 10%;
+  
+      .ValorantGamer {
+        .animeGif{
+          height: 190px;
+          width: 400px;
+          margin-left: 4%;
+        }
+        margin-top: 5%;
+        .ValDescription {
+          font-size: 40px;
+          padding-left: 10%;
+        }
       }
-    }
-
-    .Programmer {
-      .valGif {
-        margin-left: 63%;
+  
+      .Programmer {
+        .valGif {
+          margin-left: 63%;
+        }
+        .ProgramDescription{
+          padding-right: 4%;
+          width: 350px;
+        }
+        margin-top: 0%;
+        padding-bottom: 20%;
+        display: flex;
+        flex-direction: column;
+        align-items:end;
+  
       }
-      .ProgramDescription{
-        padding-right: 4%;
-        width: 350px;
+  
+      h5 {
+        font-size: 25px;
       }
-      margin-top: 0%;
-      padding-bottom: 20%;
-      display: flex;
-      flex-direction: column;
-      align-items:end;
+  }
 
-    }
-
-    h5 {
-      font-size: 25px;
-    }
-}
 
 
 

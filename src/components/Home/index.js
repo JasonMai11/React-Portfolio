@@ -21,7 +21,7 @@ const Home = () => {
         }, 4000)
       }, []);
 
-    return (
+      return (
         <>
 
             <div className="container home-page">
@@ -53,7 +53,11 @@ const Home = () => {
                     <Link to = "/contact" className = 'flat-button2'>CONTACT ME</Link>
                 </div>
                 <Logo />
-            
+            </div>
+
+            <Loader type="pacman" />
+
+            <div className= 'container scroll-effects'>
             <ScrollContainer>
                 <ScrollPage page = {0}>
                 <Animator animation = {batch(Fade(), MoveOut())}>
@@ -63,16 +67,12 @@ const Home = () => {
                 <ScrollPage page = {1}>
                 <div className = "ValorantGamer">
                 <img src = {animeProgramming} className = "animeGif" alt = "This will display an animated gif for Valorant"/>
-                
                     <Animator animation = {batch(FadeIn(), MoveIn(1000,0,100), MoveOut(-120), FadeOut(20))}>
                     <div className = "ValDescription">
                         <h5> I'm a Programmer by Day</h5>
                     </div>
                     </Animator>
-
                 </div>
-               
-
                 <div className = "Programmer">
                     <img src = {Valorant} className = "valGif" alt = "This will display an animated gif for Programming"/>
    
@@ -81,19 +81,13 @@ const Home = () => {
                         <h5> and a Gamer by Night</h5>
                     </div>
                     </Animator>
-                
                 </div>
                 </ScrollPage>
                 </ScrollContainer>
-            </div>
-
-
-
-            <Loader type="pacman" />
+                </div>
         </>
     );
 }
-
 
 
 export default Home;
