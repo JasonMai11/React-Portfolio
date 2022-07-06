@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff43a53f.css",
-    "main.js": "/static/js/main.3124d3ab.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/NoteTakersGif.gif": "/static/media/NoteTakersGif.f30627f94980750df218.gif",
-    "static/media/minecraft-cube.gif": "/static/media/minecraft-cube.595cf8b170376a4e6c2b.gif",
-    "static/media/CodePathCertificate.pdf": "/static/media/CodePathCertificate.c4431e40ee3ae3ddbad3.pdf",
-    "static/media/ParstagramGif.gif": "/static/media/ParstagramGif.3b7f0fef20bd7d716a79.gif",
-    "static/media/bojiirungif.gif": "/static/media/bojiirungif.4c2ba3dae1ff4de09d4a.gif",
-    "static/media/ValorantGamerGif.gif": "/static/media/ValorantGamerGif.d65ff23d353ebbf67783.gif",
-    "static/media/smartglassesanime.gif": "/static/media/smartglassesanime.e3d7c40bddef1c553c14.gif",
-    "static/media/animeprogramming.gif": "/static/media/animeprogramming.fb04e7d2758b38056823.gif",
-    "static/media/coolJ.gif": "/static/media/coolJ.7d71c8299a57601d5e74.gif",
-    "static/media/My_Resume_3.pdf": "/static/media/My_Resume_3.c9ebea9028216356646f.pdf",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/jason-sub.png": "/static/media/jason-sub.890a1e07d9bcfe9acd36.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.ff43a53f.css.map": "/static/css/main.ff43a53f.css.map",
-    "main.3124d3ab.js.map": "/static/js/main.3124d3ab.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.b985e319.css",
+    "main.js": "/React-Portfolio/static/js/main.56d2dc59.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/NoteTakersGif.gif": "/React-Portfolio/static/media/NoteTakersGif.f30627f94980750df218.gif",
+    "static/media/minecraft-cube.gif": "/React-Portfolio/static/media/minecraft-cube.595cf8b170376a4e6c2b.gif",
+    "static/media/CodePathCertificate.pdf": "/React-Portfolio/static/media/CodePathCertificate.c4431e40ee3ae3ddbad3.pdf",
+    "static/media/ParstagramGif.gif": "/React-Portfolio/static/media/ParstagramGif.3b7f0fef20bd7d716a79.gif",
+    "static/media/bojiirungif.gif": "/React-Portfolio/static/media/bojiirungif.4c2ba3dae1ff4de09d4a.gif",
+    "static/media/ValorantGamerGif.gif": "/React-Portfolio/static/media/ValorantGamerGif.d65ff23d353ebbf67783.gif",
+    "static/media/smartglassesanime.gif": "/React-Portfolio/static/media/smartglassesanime.e3d7c40bddef1c553c14.gif",
+    "static/media/animeprogramming.gif": "/React-Portfolio/static/media/animeprogramming.fb04e7d2758b38056823.gif",
+    "static/media/coolJ.gif": "/React-Portfolio/static/media/coolJ.7d71c8299a57601d5e74.gif",
+    "static/media/My_Resume_3.pdf": "/React-Portfolio/static/media/My_Resume_3.c9ebea9028216356646f.pdf",
+    "static/media/helvetica-neu.ttf": "/React-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/React-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/jason-sub.png": "/React-Portfolio/static/media/jason-sub.890a1e07d9bcfe9acd36.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b985e319.css.map": "/React-Portfolio/static/css/main.b985e319.css.map",
+    "main.56d2dc59.js.map": "/React-Portfolio/static/js/main.56d2dc59.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff43a53f.css",
-    "static/js/main.3124d3ab.js"
+    "static/css/main.b985e319.css",
+    "static/js/main.56d2dc59.js"
   ]
 }
