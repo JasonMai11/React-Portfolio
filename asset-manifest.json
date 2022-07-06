@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.b985e319.css",
-    "main.js": "/React-Portfolio/static/js/main.56d2dc59.js",
-    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "main.js": "/React-Portfolio/static/js/main.b685d523.js",
+    "static/js/787.18c97524.chunk.js": "/React-Portfolio/static/js/787.18c97524.chunk.js",
     "static/media/NoteTakersGif.gif": "/React-Portfolio/static/media/NoteTakersGif.f30627f94980750df218.gif",
     "static/media/minecraft-cube.gif": "/React-Portfolio/static/media/minecraft-cube.595cf8b170376a4e6c2b.gif",
     "static/media/CodePathCertificate.pdf": "/React-Portfolio/static/media/CodePathCertificate.c4431e40ee3ae3ddbad3.pdf",
@@ -19,11 +19,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/React-Portfolio/index.html",
     "main.b985e319.css.map": "/React-Portfolio/static/css/main.b985e319.css.map",
-    "main.56d2dc59.js.map": "/React-Portfolio/static/js/main.56d2dc59.js.map",
-    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.b685d523.js.map": "/React-Portfolio/static/js/main.b685d523.js.map",
+    "787.18c97524.chunk.js.map": "/React-Portfolio/static/js/787.18c97524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b985e319.css",
-    "static/js/main.56d2dc59.js"
+    "static/js/main.b685d523.js"
   ]
 }
