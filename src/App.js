@@ -13,7 +13,7 @@ function App() {
     <>
     <Routes>
       <Route path="/" element={<Layout />}>
-        <Route index element = {<Home />} />
+        <Route path = "React-Portfolio" index element = {<Home />} />
         <Route path = "about" element = {<About />}/>
         <Route path = "projects" element = {<Projects />}/>
         <Route path = "SkillsCertificates" element = {<SkillsCertificates/>}/>
