@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Loader from 'react-loaders';
 import AnimatedLetters from '../AnimatedLetters';
 import './index.scss';
-import Logo from './Logo';
+import LogoS from '../../assets/images/coolJ.gif'
 import Valorant from '../../assets/images/ValorantGamerGif.gif';
 import animeProgramming from '../../assets/images/animeprogramming.gif'
 import { Animator, ScrollContainer, ScrollPage, batch, Fade, FadeIn, FadeOut, Move, MoveIn, MoveOut, Sticky, StickyIn, StickyOut, Zoom, ZoomIn, ZoomOut } from "react-scroll-motion";
@@ -52,7 +52,7 @@ const Home = () => {
                     </a>
                     <Link to = "/Contact" className = 'flat-button2'>CONTACT ME</Link>
                 </div>
-                <Logo />
+                <img className = "coolJlogo" src = {LogoS} />
             </div>
 
             <Loader type="pacman" />

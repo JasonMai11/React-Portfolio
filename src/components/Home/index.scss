@@ -43,6 +43,7 @@
             animation: rotateIn 1s linear both;
             animation-delay: 1.4s;
         }
+
     }
 
     h2 {
@@ -115,6 +116,14 @@
         to {
           margin-left: 0%;
         }
+      }
+
+      .coolJlogo{
+        margin-top: 2%;
+        margin-left: 55%;
+        height: 450px;
+        width: 500px;
+        transform: rotateZ(30deg);
       }
     }
     
