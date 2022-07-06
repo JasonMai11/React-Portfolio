@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.b985e319.css",
-    "main.js": "/React-Portfolio/static/js/main.b685d523.js",
+    "main.css": "/React-Portfolio/static/css/main.f3e0e8cf.css",
+    "main.js": "/React-Portfolio/static/js/main.62355312.js",
     "static/js/787.18c97524.chunk.js": "/React-Portfolio/static/js/787.18c97524.chunk.js",
     "static/media/NoteTakersGif.gif": "/React-Portfolio/static/media/NoteTakersGif.f30627f94980750df218.gif",
     "static/media/minecraft-cube.gif": "/React-Portfolio/static/media/minecraft-cube.595cf8b170376a4e6c2b.gif",
@@ -18,12 +18,12 @@
     "static/media/jason-sub.png": "/React-Portfolio/static/media/jason-sub.890a1e07d9bcfe9acd36.png",
     "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/React-Portfolio/index.html",
-    "main.b985e319.css.map": "/React-Portfolio/static/css/main.b985e319.css.map",
-    "main.b685d523.js.map": "/React-Portfolio/static/js/main.b685d523.js.map",
+    "main.f3e0e8cf.css.map": "/React-Portfolio/static/css/main.f3e0e8cf.css.map",
+    "main.62355312.js.map": "/React-Portfolio/static/js/main.62355312.js.map",
     "787.18c97524.chunk.js.map": "/React-Portfolio/static/js/787.18c97524.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b985e319.css",
-    "static/js/main.b685d523.js"
+    "static/css/main.f3e0e8cf.css",
+    "static/js/main.62355312.js"
   ]
 }
