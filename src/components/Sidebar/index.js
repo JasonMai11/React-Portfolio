@@ -32,7 +32,7 @@ const Sidebar = () => {
                     <FontAwesomeIcon icon={faCertificate} color="#4d4d4e" />
                 </NavLink>
 
-                <NavLink exact="true" activeclassname="active" className="contact-link" to="/portfolio">
+                <NavLink exact="true" activeclassname="active" className="contact-link" to="/Contact">
                     <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
                 </NavLink>
             </nav>

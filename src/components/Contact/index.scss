@@ -1,0 +1,17 @@
+.disappear2{
+    opacity: 100;
+    animation: fadeOut 1s ease-in 1s;
+    animation-fill-mode: forwards;
+    .ringLoader {
+        color: black;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        height: 30px;
+        width: 30px;
+    }
+}
+
+.Contact-page {
+    margin-left: 10%;
+}

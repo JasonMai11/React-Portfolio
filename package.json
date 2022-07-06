@@ -23,6 +23,7 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-scroll-motion": "^0.3.0",
+    "react-spinners": "^0.13.3",
     "sass": "^1.52.3",
     "save": "^2.5.0",
     "save-dev": "^0.0.1-security",

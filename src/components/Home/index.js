@@ -7,7 +7,7 @@ import Logo from './Logo';
 import Valorant from '../../assets/images/ValorantGamerGif.gif';
 import animeProgramming from '../../assets/images/animeprogramming.gif'
 import { Animator, ScrollContainer, ScrollPage, batch, Fade, FadeIn, FadeOut, Move, MoveIn, MoveOut, Sticky, StickyIn, StickyOut, Zoom, ZoomIn, ZoomOut } from "react-scroll-motion";
-
+import resume from '../../assets/images/My_Resume_3.pdf';
 
 
 const Home = () => {
@@ -47,10 +47,10 @@ const Home = () => {
                     idx = {17} />
                     </h1>
                     <h2>Web/Mobile App Developer | Swift Expert | Content Creator</h2>
-                    <a href="https://www.linkedin.com/in/jason-mai-460583196/details/featured/1635494628427/single-media-viewer/">
+                    <a href= {resume}>
                     <div className = 'flat-button1'>RESUME</div>
                     </a>
-                    <Link to = "/contact" className = 'flat-button2'>CONTACT ME</Link>
+                    <Link to = "/Contact" className = 'flat-button2'>CONTACT ME</Link>
                 </div>
                 <Logo />
             </div>
