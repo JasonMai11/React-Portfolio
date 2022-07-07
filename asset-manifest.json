@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.f3e0e8cf.css",
-    "main.js": "/React-Portfolio/static/js/main.62355312.js",
+    "main.css": "/React-Portfolio/static/css/main.ea668805.css",
+    "main.js": "/React-Portfolio/static/js/main.97dd2d11.js",
     "static/js/787.18c97524.chunk.js": "/React-Portfolio/static/js/787.18c97524.chunk.js",
     "static/media/NoteTakersGif.gif": "/React-Portfolio/static/media/NoteTakersGif.f30627f94980750df218.gif",
     "static/media/minecraft-cube.gif": "/React-Portfolio/static/media/minecraft-cube.595cf8b170376a4e6c2b.gif",
@@ -13,17 +13,18 @@
     "static/media/animeprogramming.gif": "/React-Portfolio/static/media/animeprogramming.fb04e7d2758b38056823.gif",
     "static/media/coolJ.gif": "/React-Portfolio/static/media/coolJ.7d71c8299a57601d5e74.gif",
     "static/media/My_Resume_3.pdf": "/React-Portfolio/static/media/My_Resume_3.c9ebea9028216356646f.pdf",
+    "static/media/contactInfoAnimeGif.gif": "/React-Portfolio/static/media/contactInfoAnimeGif.b3acd6558f0ebce6bc97.gif",
     "static/media/helvetica-neu.ttf": "/React-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/React-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/jason-sub.png": "/React-Portfolio/static/media/jason-sub.890a1e07d9bcfe9acd36.png",
     "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/React-Portfolio/index.html",
-    "main.f3e0e8cf.css.map": "/React-Portfolio/static/css/main.f3e0e8cf.css.map",
-    "main.62355312.js.map": "/React-Portfolio/static/js/main.62355312.js.map",
+    "main.ea668805.css.map": "/React-Portfolio/static/css/main.ea668805.css.map",
+    "main.97dd2d11.js.map": "/React-Portfolio/static/js/main.97dd2d11.js.map",
     "787.18c97524.chunk.js.map": "/React-Portfolio/static/js/787.18c97524.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3e0e8cf.css",
-    "static/js/main.62355312.js"
+    "static/css/main.ea668805.css",
+    "static/js/main.97dd2d11.js"
   ]
 }
