@@ -10,14 +10,21 @@ function SkillsCertificates(){
     <div className = "container SkillsCertificates-page">
 
     <img src = {MCcube} className = "mcCube" alt = "minecraft cube"></img>
+
       <div className = 'Skills'>
-        <ol className = 'olu'>Skills:</ol>
+        <ol className = 'olu'>Skills</ol>
+        <ul><b>Programming Languages:</b></ul>
+        <ul>- Python, HTML & CSS, ReactJS, JavaScript, Scala, Swift, and C (Programming Language)</ul>
+        <br />
+        <ul><b>Data Bases:</b></ul>
+        <ul>- Parse, MongoDB</ul>
+
+        <br />
 
 
       </div>
-
       <div className = 'Certificates'>
-        <ol className = 'oll'>Certificates:</ol>
+        <ol className = 'oll'>Certificates</ol>
         <ul className = 'ull'> <a href = {resume}>
           - (CodePath) Certificate of Achievement in iOS Development</a>
         </ul>
