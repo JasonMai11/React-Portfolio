@@ -1,9 +1,9 @@
 import './index.scss'
-import LogoTitle from '../../assets/images/smartglassesanime.gif';
-import AnimatedLetters from '../AnimatedLetters'
+import AnimatedLetters from '../AnimatedLetters';
+import aboutBackground from '../../assets/videos/cool-anime-collection-theme-4k-live-wallpaper.mp4';
+import zenitsu from '../../assets/videos/sheesh.mp4';
 import {
     faGit,
-    faGithub,
     faHtml5,
     faJsSquare,
     faPython,
@@ -26,6 +26,7 @@ const About = () => {
     return (
         <>
         <div className = 'container about-page'>
+            <video src = {aboutBackground} className = "aboutBackground" autoPlay loop muted/>
             <div className = 'text-zone'>
                 <h1>
                     <AnimatedLetters 
@@ -34,16 +35,13 @@ const About = () => {
                     idx = {15}
                     />
                 </h1>
-                <p>• I have exceptional understanding with Object Oriented Programming (OOP), Data Structures, Algorithms and Complexities.</p>
-                <p>• Expert in leading, planning, and communicating validated by working on an iOS app development team at CodePath.</p>
-                <p>• Adept learner exhibited by learning the Parse database as well as APIs used at the University at Buffalo's Hackathon.</p>
+                <p><b>• I have exceptional understanding with Object Oriented Programming (OOP), Data Structures, Algorithms and Complexities.</b></p>
+                <p><b>• Expert in leading, planning, and communicating validated by working on an iOS app development team at CodePath.</b></p>
+                <p><b>• Adept learner exhibited by learning the Parse database as well as APIs used at the University at Buffalo's Hackathon.</b></p>
                 <p></p>
             </div>
             <div className="stage-cube-cont">
                 <div className="cubespinner">
-                    <div className="face0">
-                    <img src = {LogoTitle} alt = "developer" />
-                    </div>
                     <div className="face1">
                     <FontAwesomeIcon icon={faPython} color="#EFD81D" />
                     </div>
@@ -79,6 +77,7 @@ const About = () => {
             </div>
             */  
         </div>
+
         <Loader type="line-scale" />
     </>
 
