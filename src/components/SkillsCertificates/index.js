@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import MCcube from '../../assets/images/minecraft-cube.gif';
 import resume from '../../assets/images/CodePathCertificate.pdf';
 import HashLoader from 'react-spinners/HashLoader';
+import certi2 from '../../assets/images/CodePathAdvancedCert.pdf';
 
 function SkillsCertificates(){
   return (
@@ -27,6 +28,10 @@ function SkillsCertificates(){
         <ol className = 'oll'>Certificates</ol>
         <ul className = 'ull'> <a href = {resume}>
           - (CodePath) Certificate of Achievement in iOS Development</a>
+        </ul>
+        <ul className = 'uip'> <a href = {certi2}>
+          - (CodePath) Certificate of Achievement in Advanced Software Engineering
+        </a>
         </ul>
       </div>
     </div>

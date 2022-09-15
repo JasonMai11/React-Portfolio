@@ -7,7 +7,7 @@ import LogoS from '../../assets/images/coolJ.gif'
 import Valorant from '../../assets/images/ValorantGamerGif.gif';
 import animeProgramming from '../../assets/images/animeprogramming.gif'
 import { Animator, ScrollContainer, ScrollPage, batch, Fade, FadeIn, FadeOut, Move, MoveIn, MoveOut, Sticky, StickyIn, StickyOut, Zoom, ZoomIn, ZoomOut } from "react-scroll-motion";
-import resume from '../../assets/images/My_Resume_3.pdf';
+import resume from '../../assets/images/Fall22ApplyingResume.pdf';
 
 
 const Home = () => {

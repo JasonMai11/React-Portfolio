@@ -26,7 +26,7 @@ const About = () => {
     return (
         <>
         <div className = 'container about-page'>
-            <video src = {aboutBackground} className = "aboutBackground" autoPlay loop muted/>
+           {/* <video src = {aboutBackground} className = "aboutBackground" autoPlay loop muted/>  */}
             <div className = 'text-zone'>
                 <h1>
                     <AnimatedLetters 
