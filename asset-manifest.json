@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.6ca69448.css",
-    "main.js": "/React-Portfolio/static/js/main.dc5a47a5.js",
+    "main.js": "/React-Portfolio/static/js/main.2cd30ac9.js",
     "static/js/787.18c97524.chunk.js": "/React-Portfolio/static/js/787.18c97524.chunk.js",
     "static/media/cool-anime-collection-theme-4k-live-wallpaper.mp4": "/React-Portfolio/static/media/cool-anime-collection-theme-4k-live-wallpaper.9aed2e2012ca88aa8561.mp4",
     "static/media/NoteTakersGif.gif": "/React-Portfolio/static/media/NoteTakersGif.f30627f94980750df218.gif",
@@ -14,7 +14,7 @@
     "static/media/ValorantGamerGif.gif": "/React-Portfolio/static/media/ValorantGamerGif.d65ff23d353ebbf67783.gif",
     "static/media/animeprogramming.gif": "/React-Portfolio/static/media/animeprogramming.fb04e7d2758b38056823.gif",
     "static/media/coolJ.gif": "/React-Portfolio/static/media/coolJ.7d71c8299a57601d5e74.gif",
-    "static/media/Resume_Winter22_Jason_Mai.pdf": "/React-Portfolio/static/media/Resume_Winter22_Jason_Mai.d51532afe4d300e99210.pdf",
+    "static/media/Jason_Mai_Concise_Resume_2023.pdf": "/React-Portfolio/static/media/Jason_Mai_Concise_Resume_2023.6e1dbad4a49580590f5e.pdf",
     "static/media/contactInfoAnimeGif.gif": "/React-Portfolio/static/media/contactInfoAnimeGif.b3acd6558f0ebce6bc97.gif",
     "static/media/helvetica-neu.ttf": "/React-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/React-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -22,11 +22,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/React-Portfolio/index.html",
     "main.6ca69448.css.map": "/React-Portfolio/static/css/main.6ca69448.css.map",
-    "main.dc5a47a5.js.map": "/React-Portfolio/static/js/main.dc5a47a5.js.map",
+    "main.2cd30ac9.js.map": "/React-Portfolio/static/js/main.2cd30ac9.js.map",
     "787.18c97524.chunk.js.map": "/React-Portfolio/static/js/787.18c97524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ca69448.css",
-    "static/js/main.dc5a47a5.js"
+    "static/js/main.2cd30ac9.js"
   ]
 }
