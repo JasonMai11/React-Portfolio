@@ -40,28 +40,7 @@ const About = () => {
                 <p><b>• Adept learner exhibited by learning the Parse database as well as APIs used at the University at Buffalo's Hackathon.</b></p>
                 <p></p>
             </div>
-            <div className="stage-cube-cont">
-                <div className="cubespinner">
-                    <div className="face1">
-                    <FontAwesomeIcon icon={faPython} color="#EFD81D" />
-                    </div>
-                    <div className="face2">
-                    <FontAwesomeIcon icon={faHtml5} color="#F06529" />
-                    </div>
-                    <div className="face3">
-                    <FontAwesomeIcon icon={faSwift} color="#EC4D28" />
-                    </div>
-                    <div className="face4">
-                    <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
-                    </div>
-                    <div className="face5">
-                    <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
-                    </div>
-                    <div className="face6">
-                    <FontAwesomeIcon icon={faGit} color="#EC4D28" />
-                    </div>
-                </div>
-            </div>
+
 
             /* hexagon
             <div class="cxq-spinner cxq-spinner--rotatePlane">
